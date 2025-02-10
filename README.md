@@ -30,7 +30,7 @@ Este projeto é uma aplicação serverless que utiliza AWS Rekognition para aná
 1. Clone o repositório:
 
 ```bash
-git clone [[seu-repositorio](https://github.com/joaogbrieldev/aws-image-analysis.git)]
+git clone https://github.com/joaogbrieldev/aws-image-analysis.git
 cd image-analysis
 ```
 
